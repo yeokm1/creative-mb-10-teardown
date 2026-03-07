@@ -101,5 +101,5 @@ python gen_pyramid_canary_mid.py 30 filler30.mid --priority-override
 ```
 
 ## Sources
-Creative 1992 Product Catalog: https://archive.org/details/creative-labs-product-catalog-1992/
-Magazine source: https://www.wavetable.nl/files/articles/Personal%20Computer%20Magazine%20(Dutch)/Personal%20Computer%20Magazine%20Oktober%201993%20-%20Opgeblazen%20geluid.pdf
+* Creative 1992 Product Catalog: https://archive.org/details/creative-labs-product-catalog-1992/
+* Magazine source: https://www.wavetable.nl/files/articles/Personal%20Computer%20Magazine%20(Dutch)/Personal%20Computer%20Magazine%20Oktober%201993%20-%20Opgeblazen%20geluid.pdf
