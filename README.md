@@ -5,6 +5,8 @@ This repository contains the photos and a max-notes Python project to generate M
 
 Companion blog post for this repo: https://yeokhengmeng.com/2026/02/review-and-teardown-creative-mb-10/
 
+ROMs can be found in this collection: https://dbwbp.com/index.php/9-misc/37-synth-eprom-dumps
+
 ## Photos
 
 ### External
