@@ -1,0 +1,26 @@
+; Setup file SETUP.LST.
+; Cakewalk Professional or Cakewalk Professional Demo.
+; Twelve Tone Systems, Inc.
+; $Date:   13 May 1992 22:20:04  $
+
+[Params]
+	WndTitle   = Microsoft Setup
+	WndMess    = Initializing Setup...
+	TmpDirSize = 500
+	TmpDirName = ~msstfqf.t
+	CmdLine    = _mstest wincake.mst /C "/S %s %s"
+	DrvModName = DSHELL
+
+[Files]
+	wincake.ms_  = wincake.mst
+	setup.in_    = setup.inf
+	setupapi.in_ = setupapi.inc
+	msdetect.in_ = msdetect.inc
+	msregdb.in_  = msregdb.inc
+	mscomstf.dl_ = mscomstf.dll
+	msinsstf.dl_ = msinsstf.dll
+	msuilstf.dl_ = msuilstf.dll
+	msshlstf.dl_ = msshlstf.dll
+	mscuistf.dl_ = mscuistf.dll
+	msdetstf.dl_ = msdetstf.dll
+	_mstest.ex_  = _mstest.exe
